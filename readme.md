@@ -643,6 +643,7 @@
 - [Suricata](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
 - [Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
 - [Detection Engineering](https://github.com/infosecB/awesome-detection-engineering#readme) - Design, build, and operate detective cybersecurity controls.
+- [Cyber Third-Party Risk Management](https://github.com/jasonotu/awesome-cyber-tprm) - Third-party risk management (TPRM) with respect to cybersecurity.
 
 ## Content Management Systems
 
